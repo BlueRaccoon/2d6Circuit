@@ -1,8 +1,9 @@
 # Annabelle West
-*Wanderlust | Restlessness*
-Background:  White Plains (Wierdlands)
-Size: Medium(3) 
-5'4" ; Pale Ashy Skin, Blonde Braids, Green Eyes
+*Wanderlust | Restlessness*  
+Background:  White Plains (Wierdlands)  
+Size: Medium(3)   
+5'4" ; Pale Ashy Skin, Blonde Braids, Green Eyes  
+
 
 ## Attributes
 |♣ Body|♠ Grace|♥ Heart|♦ Mind|
