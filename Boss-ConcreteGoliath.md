@@ -16,7 +16,7 @@
  - **Hulking** Use 'Endure'/'Athletics' interchangeably for any ♣ check. Max Health increases by 'Endure'
  - **Animate** Immune to Suffocation. +ADV vs Poison. Damaged by Disenchant effects.
  - **Junkyard Body** Absorb Debris (difficult terrain) by moving through it. Absorb 1 Armor/meter of Debris.
- -  **[Trait] Impenetrable Stone**  Unless Stunned or Knocked Down, resist 1 Crit of damage each turn. *(Does not apply to Heart)*
+ -  **Impenetrable Stone**  Unless Stunned or Knocked Down, resist 1 Crit of Slash/Pierce damage each turn. *(Does not apply to Heart)*
 
 ## Colossus
 Your body is treated as having 3 main sections: Lower, Upper, Weakpoint. Each section has separate Health/Armor and gets its own Card (except weakpoint) gets its own Initiative Card.    
